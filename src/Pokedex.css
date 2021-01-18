@@ -1,0 +1,12 @@
+.Pokedex {
+	display: flex;
+	flex-direction: row;
+}
+
+.Pokedex-title {
+	color: rgba(2, 2, 2, 0.288);
+	justify-content: center;
+}
+.Pokedex-list {
+	list-style-type: none;
+}
